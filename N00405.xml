@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <body>
          <div type="letter">
-            <pb facs="tcp:000501_0000_0FA6A6D1390021F0"/>
-            <pb facs="tcp:000501_0001_0FA6A6D1F9D94BB0"/>
+            <pb facs="unknown:000501_0000_0FA6A6D1390021F0"/>
+            <pb facs="unknown:000501_0001_0FA6A6D1F9D94BB0"/>
             <head>His Highness the Prince of Orange, His LETTER to the LORDS Spiritual and Temporal Assembled at WESTMINSTER, In this present Convention.</head>
             <opener>
                <salute>My Lords,</salute>
@@ -131,7 +131,7 @@
                <hi>Boston,</hi> Printed by <hi>S. G.</hi> for <hi>S. Phillips</hi> at the Town-House 1689.</p>
          </div>
          <div type="address">
-            <pb facs="tcp:000501_0002_0FA6A6D2BB6A6B30"/>
+            <pb facs="unknown:000501_0002_0FA6A6D2BB6A6B30"/>
             <head>THE ADDRESS Of the LORDS Spiritual, and Temporal, and Commons.</head>
             <opener>
                <dateline>Assembled at Westminster, in this present Convention. <date>Jan. 23. 1688/9</date>
